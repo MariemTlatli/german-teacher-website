@@ -11,7 +11,7 @@ const content = {
     { name: "Contact", link: "#contact" },
   ],
   about: {
-    title: "À Propos du Professeur",
+    title: "À Propos du Professeur : bonjour",
     description:
       "Avec plus de 10 ans d'expérience dans l'enseignement de l'allemand, je vous accompagne dans votre parcours d'apprentissage pour réussir les examens officiels.",
   },
@@ -19,7 +19,7 @@ const content = {
     title: "Services Offerts",
     list: [
       "Préparation aux examens A1 à C2",
-      "Cours en ligne personnalisés",
+      "Cours en ligne personnalisés ou présentiel",
       "Sessions de conversation en allemand",
       "Supports d'étude et exercices de pratique",
     ],
@@ -30,7 +30,7 @@ const content = {
       "Je propose des programmes pour les niveaux de certification suivants : Goethe-Zertifikat, TestDaF, TELC, et plus. Ma méthode inclut des évaluations régulières pour mesurer vos progrès.",
   },
   contact: {
-    title: "Contactez-moi",
+    title: "Contactez-moi sur",
     description:
       "Envoyez un message pour plus d'informations ou pour réserver une première session d'évaluation gratuite.",
     buttonText: "Me Contacter",
